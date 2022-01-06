@@ -9,7 +9,7 @@
 </div>
 <div dir="rtl">
  
-ایمیل:[h.ehsani5731@gmail.com](h.ehsani5731@gmail.com)
+ایمیل:h.ehsani5731@gmail.com
  
 </div>
 <div dir="rtl">
