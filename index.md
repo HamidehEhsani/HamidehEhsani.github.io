@@ -8,8 +8,9 @@
 تاریخ تولد:1375/7/20
 </div>
 <div dir="rtl">
- 
-ایمیل:h.ehsani5731@gmail.com
+ایمیل:
+<a href="h.ehsani5731@gmail.com"> h.ehsani5731@gmail.com </a> 
+
  
 </div>
 <div dir="rtl">
